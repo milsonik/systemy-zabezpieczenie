@@ -1,4 +1,4 @@
 {
-  "owners": [2657389852],
-  "allowed": [11111111, 22222222]
+  "allowedPlaces": [0, 0],
+  "allowedOwners": [2657389852, 0]
 }
